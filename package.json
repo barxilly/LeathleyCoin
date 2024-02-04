@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "crypto-js": "^4.2.0"
+  },
+  "name": "leathleycoin",
+  "version": "0.0.1",
+  "description": "The only good cryptocurrency",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben Smith",
+  "license": "MIT"
+}
